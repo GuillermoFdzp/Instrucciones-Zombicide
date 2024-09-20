@@ -14,7 +14,7 @@ Los zombis que se encuentran en la misma Zona que un Superviviente atacarán. Ca
 
 ***
 
-## FASE 2- MOVIMIENTO.
+## FASE 2- MOVIMIENTO
 
 Los zombis que no han atacado avanzan hacia los Supervivientes que pueden ver. Si un zombi no ve a ningún Superviviente, avanzará hacia la Zona con más ruido. Los zombis se mueven siguiendo el camino más corto.
 
@@ -33,7 +33,7 @@ Tipo de Zombi Acciones Movimiento por Turno Caminante 1 acción 1 Zona Gordo 1 a
 
 ***
 
-## FASE 3- APARICION.
+## FASE 3- APARICION
 
 Los zombis aparecen al final de cada turno en las Zonas designadas de aparición. El número de zombis que aparece depende del nivel de peligro del Superviviente más experimentado.
 
